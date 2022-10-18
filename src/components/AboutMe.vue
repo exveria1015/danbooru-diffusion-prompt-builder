@@ -2,7 +2,7 @@
 import {ElButton, ElSwitch, ElScrollbar} from "element-plus";
 import {FontAwesomeIcon} from "@fortawesome/vue-fontawesome";
 import GithubButton from "vue-github-button";
-import {faEye, faEyeSlash, faClipboard, faThumbsDown, faThumbsUp, faLightbulbOn, faLightbulbSlash, faCommentMinus, faCommentPlus, faTrash} from "@fortawesome/pro-light-svg-icons";
+import {faEye, faEyeSlash, faClipboard, faThumbsDown, faThumbsUp, faLightbulbOn, faLightbulbSlash, faCommentMinus, faCommentPlus, faTrash} from "@fortawesome/free-light-svg-icons";
 import {useSettingsStore} from "../stores/settings";
 import {useTagStore} from "../stores/tags";
 import {usePresetStore} from "../stores/presets";
